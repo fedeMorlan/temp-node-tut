@@ -1,0 +1,4 @@
+# evitamos los modulos para que no pese demasiado
+# ya teniendo los nombres en el package se entiende la version y todo
+
+/node_modules
